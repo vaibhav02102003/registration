@@ -1,0 +1,31 @@
+body{
+    background-color:#fefae0;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: scroll;
+    text-align: center;    
+    background-size:210000PX;
+    font-size: 30px;
+    color: black;
+    font-style:Helvetica;
+}
+.h3{
+    font-size: medium;
+
+}
+#s{
+    font-size: 40px;
+    width: 115px;
+    height: 45px;
+}
+.g{
+    font-size: 45px;
+}
+.sub >button{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: #34312d;
+    color: aliceblue;
+
+}
